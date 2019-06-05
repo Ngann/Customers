@@ -4,3 +4,4 @@ $ yarn add express espress-graphql nodemon --save // nodemon allow run server wi
 $ yarn add graphql --save
 $ yarn dev:server
 $ yarn add json-server axios --save // create a json server using axios
+$ yarn json:server // when using axios, it will mutatue the information in data.json
